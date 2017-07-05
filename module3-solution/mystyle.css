@@ -101,7 +101,6 @@ section {
 
 #nav-list {
     font-family: 'Oxygen', sans-serif;
-    text-align: center;
 }
 
 #nav-list li:first-child {
@@ -117,9 +116,16 @@ section {
     color: mediumpurple;
 }
 
-.item {
-    color: black;
+.text-center {
     font-size: 1.5em;
+}
+
+
+#main-header {
+    font-family: 'Oxygen', sans-serif;
+    color: darkorange;
+    font-weight: bold;
+    font-size: 300%;
 }
 
 
